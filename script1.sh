@@ -4,5 +4,8 @@ echo "new practical is been processed again"
 echo "abcdeeegjlgjdljdojdljglgjgolj;o"
 echo  "helo world "
 hello imgoogle
-real me phone
-eeretrytuhb
+
+
+well done for the exam
+very well done for the own
+
